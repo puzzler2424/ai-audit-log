@@ -1,4 +1,4 @@
-package io.github.puzzler2424.ai_audit_log.Entity;
+package io.github.puzzler2424.ai_audit_log.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
